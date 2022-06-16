@@ -1,0 +1,4 @@
+#Thu Jun 16 16:31:24 IST 2022
+base.0=/Users/ashish/Flutter_Code/flutter_local_audio/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
